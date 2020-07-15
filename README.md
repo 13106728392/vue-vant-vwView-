@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-07-15 11:42:11
+ * @LastEditTime: 2020-07-15 15:16:20
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \vwporject\README.md
+--> 
 # vwporject
 
 ## Project setup
@@ -15,10 +23,4 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### vue-vant-vw的移动端，简单项目脚手架配置
